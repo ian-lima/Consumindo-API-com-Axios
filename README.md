@@ -9,7 +9,7 @@
 
 
 
-## 🚀 Tecnologias
+## 💻 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 
-## 💻 Projeto
+## 🚀 Projeto
 
 Esse projeto foi construído para servir de apoio no estudo de consumo de APIs REST
 
